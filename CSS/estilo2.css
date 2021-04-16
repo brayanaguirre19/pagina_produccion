@@ -1,0 +1,23 @@
+.cont1 {
+	margin: 0px auto;
+	padding: 37px 70px;
+	max-width: 1216px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.cont1 div {
+	padding: 0px 10px;
+}
+
+.cont1 p {
+	margin-top: 30px;
+}
+
+.subcont1{
+	width: 600px
+}
+
+.subcont2{
+	width: 500px
+}
